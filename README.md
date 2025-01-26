@@ -38,7 +38,6 @@ Aplicar conceptos de Internet de las cosas para desarrollar una aplicación medi
 
 ### Conexiones
 - El sensor DHT22 fue conectado al pin 15 del ESP32
-- Se utilizó la fuente de alimentación del protoboard para energizar el circuito
 
 ### Código
 El programa implementa las siguientes funcionalidades:
