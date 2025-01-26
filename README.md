@@ -4,7 +4,6 @@
 
 ## ASIGNATURA: SEMINARIO DE PROGRAMACIÓN
 
-### UNIDAD 1
 ### ACTIVIDAD INTEGRADORA 2: INTERNET DE LAS COSAS--
 
 
@@ -21,27 +20,9 @@ RUBEN CRUZ GARCIA MENDEZ
 
 ---
 
-## Objetivo
-
-## Fundamento Teórico
-
-
-
-
-
-## Actividades Realizadas
-
-### ACTIVIDAD INTEGRADORA 2: INTERNET DE LAS COSAS--
-
-#### Código Implementado:
-
-
-## Actividad Integradora: Internet de las cosas (IoT)
 
 ## Objetivo
 Aplicar conceptos de Internet de las cosas para desarrollar una aplicación mediante el módulo ESP32 programado con MicroPython, visualizar los datos en un MQTT bróker y en la plataforma ThingSpeak.
-
-## Implementación del Sistema
 
 
 ## Componentes Utilizados
@@ -54,7 +35,6 @@ Aplicar conceptos de Internet de las cosas para desarrollar una aplicación medi
 - MQTT Broker HiveMQ (http://www.hivemq.com/demos/websocket-client/)
 - ThingSpeak (https://thingspeak.com/)
 
-## Implementación
 
 ### Conexiones
 - El sensor DHT22 fue conectado al pin 15 del ESP32
